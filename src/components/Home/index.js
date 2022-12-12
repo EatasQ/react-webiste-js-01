@@ -40,9 +40,9 @@ const Home = () =>
                     idx= {8}
                     />
                 </h1>
-                <h2>Bu web sitesinin tarafımca kodlanmasının yegane sebebi, <br/>
+                <h2>Bu web sitesinin tarafımca kodlanmasının sebebi, <br/>
                 birbirinden değerli ekip üyelerimizin yeteneklerini sergilemek. <br/>
-                Hali hazırda kullanılan projelerimizi sizlerin gözleri önüne sunmak ve yapabileceğimiz yeni projeler üzerine iletişime geçmektir.
+                Hali hazırda kullanılan projelerimizi sizlerin gözleri önüne sunmak <br/> ve yapabileceğimiz yeni projeler üzerine sizlerle iletişime geçmektir.
                 <br/>
                 <br/>
 
@@ -51,7 +51,7 @@ const Home = () =>
                 dolayısıyla uğraştığınız sektör her ne olursa olsun, bizlerin yapacağı ufak bir dokunuş dahi 
                 sizleri alanınızda rakip tanımayacak bir hale getirecektir. <br/><br/>
 
-                Her neyse, özet olarak ben ve ekibim yazılım alanında kendisini yetiştirmiş bir grubuz, 
+                Özet olarak ben ve ekibim yazılım alanında kendisini yetiştirmiş bir grubuz, 
                 temel gayemiz bize sunmuş olduğunuz projelerinizi olabilecek en yetkin ve en hızlı şekilde, 
                 sizlere teslim etmek, web sitemize kısaca göz atmanız takdirinde 
                 Curriculum Vitae'lerimize ulaşabilirsiniz, Saygılar.
