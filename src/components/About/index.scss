@@ -85,19 +85,35 @@
     }
   }
 
-  @media all and (max-width: 1200px){ 
+  @media screen and (max-width: 1200px){ 
     .stage-cube-cont {
       position: initial;
       width: 100%;
       height: 0;
       overflow: visible;
-      padding-top: 100px;
+      padding-top: 70px;
       padding-left: 5px;
     }
 
 
 
   }
+
+  // @media only screen 
+  //   and (device-width: 414px) 
+  //   and (device-height: 896px) {
+  //     .stage-cube-cont {
+  //       position: initial;
+  //       width: 100%;
+  //       height: 0;
+  //       overflow: visible;
+  //       padding-top: 50px;
+  //       padding-left: 25px;
+  //     }
+      
+  // }
+
+
  
 
 
