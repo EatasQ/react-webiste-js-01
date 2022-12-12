@@ -21,14 +21,6 @@ const Layout = () => {
             <Outlet />
 
             <span className = 'tags bottom-tags'>
-            &lt;  Failed to Connect to '..'
-            <br /> 
-            at "your local host bruh":0000 
-            <br />
-            with user root !&gt;
-            <br />
-            <span className = 'bottom-tag-system'>&lt;  -- SYSTEM FAILURE --  &gt;
-            </span>
             </span>
             <span className ='developer'>
                 @ Bu web sitesi -/Erdogan Atas/- tarafından geliştirilmiştir ! @
