@@ -36,15 +36,14 @@ const About = () => {
                 * Java programlama dili kullanılarak özel cep telefonu uygulaması geliştirme <br/>
                 * Metaverse - AR / VR - blockchain <br/>
                 * E-Commerce sitesi geliştirme <br />
-                * Logo tasarımı - Photoshop  <br />
                 * Python/C#/Selenium kullanılarak automated web bot geliştirme <br />
                 * Özel Telegram botu geliştirme  <br />
                 * Sql Database yapılandırması ve programlama <br />
                 * Kişiye özel portfolyo sitesi hazırlama <br />
-                * Unreal engine 5 / C ++ ile Oyun geliştirme <br />
-                * Blender - İclone - character creator - marvelous designer  <br /> 
-                * adobe programları - premiere pro - after effects - elements 3d <br /> 
-                * Terragen - Eon Vue - world creator - world machine - speed tree - plant factory ile arazi programlama  <br />
+                * Unreal Engine 5 / C ++ ile Oyun geliştirme <br />
+                * Blender - Iclone - Character Creator - Marvelous Designer  <br /> 
+                * Adobe İllustrator - Adobe Photoshop - Premiere Pro - After Effects - Elements 3d <br /> 
+                * Terragen - Eon Vue - World Creator - World Machine - Speed Tree - Plant Factory ile arazi programlama  <br />
 
             </h2>
 
