@@ -42,7 +42,9 @@ const About = () => {
                 * Sql Database yapılandırması ve programlama <br />
                 * Kişiye özel portfolyo sitesi hazırlama <br />
                 * Unreal engine 5 / C ++ ile Oyun geliştirme <br />
-
+                * Blender - İclone - character creator - marvelous designer  <br /> 
+                * adobe programları - premiere pro - after effects - elements 3d <br /> 
+                * Terragen - Eon Vue - world creator - world machine - speed tree - plant factory ile arazi programlama  <br />
 
             </h2>
 
