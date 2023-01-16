@@ -40,7 +40,7 @@ const Home = () =>
                     idx= {8}
                     />
                 </h1>
-                <h2>Bu web sitesinin tarafımca kodlanmasının sebebi, <br/>
+                <h2>Web sitesinin tarafımca kodlanmasının sebebi, <br/>
                 birbirinden değerli ekip üyelerimizin yeteneklerini sergilemek. <br/>
                 Hali hazırda kullanılan projelerimizi sizlerin gözleri önüne sunmak <br/> ve yapabileceğimiz yeni projeler üzerine sizlerle iletişime geçmektir.
                 <br/>
