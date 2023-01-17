@@ -34,7 +34,7 @@ const About = () => {
                 * Java script + React frontend Web sitesi geliştirme <br/>
                 * C# programlama dili kullanılarak özel otomasyon programı geliştirme <br/>
                 * Java programlama dili kullanılarak özel cep telefonu uygulaması geliştirme <br/>
-                * Metaverse - AR / VR - blockchain <br/>
+                * Metaverse - AR / VR - blockchain kurulumu <br/>
                 * E-Commerce sitesi geliştirme <br />
                 * Python/C#/Selenium kullanılarak automated web bot geliştirme <br />
                 * Özel Telegram botu geliştirme  <br />
